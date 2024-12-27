@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734977858 source:c:\users\ghonim\onedrive\desktop\testt\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
